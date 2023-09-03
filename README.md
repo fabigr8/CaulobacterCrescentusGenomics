@@ -10,5 +10,4 @@ Genomic analysis of Caulobacter Crescentus with UMAP and KMEANS++
 
 In this notebook I analye the genomic sequence of the bacterium **Caulobacter Crescentus**
 
-bsed on our work we could analyze DNA damages https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3127433/ chromosomal replication https://www.sciencedirect.com/science/article/abs/pii/S0147619X11001156
-and other fancy stuff.
+Its a basic EDA! But based on this work we further could analyze DNA damages https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3127433/ chromosomal replication https://www.sciencedirect.com/science/article/abs/pii/S0147619X11001156 and so much other fancy stuff.
