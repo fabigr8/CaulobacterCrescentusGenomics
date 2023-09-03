@@ -3,7 +3,10 @@ Genomic analysis of Caulobacter Crescentus with UMAP and KMEANS++
 
 # what we did:
 **DNA is usually represented as a text sequence, leveraging 4 letters to represent the constituent parts** 
-- A (Adenosine), C (Cytosine), G (Guanine) and T (Thymine).
+- A (Adenosine),
+- C (Cytosine),
+- G (Guanine)
+- and T (Thymine).
 
 In this notebook I analye the genomic sequence of the bacterium **Caulobacter Crescentus**
 
